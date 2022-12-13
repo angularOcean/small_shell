@@ -1,7 +1,5 @@
 /**************************************************************
- * CS 344 - Assignment 3: SMALLSH
- * Author: Herakles Li
- * Email: liher@oregonstate.edu
+ * SMALLSH
  * Description: File for a small shell program
  * How to compile: Compile using: gcc -std=gnu99 -Wall -Wextra -g -o smallsh smallsh.c
  * How to run: After compililng into an executable named smallsh run using './smallsh'
